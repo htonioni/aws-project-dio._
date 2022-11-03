@@ -61,4 +61,4 @@ Vamos explorar o poder do SQL em uma ferramenta de BigData totalmente gerenciada
 
 # Certificado
 
-[IMG]
+![img](https://github.com/htonioni/aws-project-dio._/blob/main/certificado/certificado.jpg)
