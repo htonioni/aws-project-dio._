@@ -17,7 +17,7 @@ Vamos explorar o poder do SQL em uma ferramenta de BigData totalmente gerenciada
 
 ### Etapas para desenvolvimento
 
-### Criar bucket no Amazon S3
+#### Criar bucket no Amazon S3
 
 - Amazon S3 Console -> Buckets -> Create bucket -> Bucket name [nome_do bucket] - Create bucket
 - Create folder (Criar uma pasta chamada ``/output`` e outra com o nome do seu conjunto de dados. Este nome irá definir o nome da tabela criada no Glue)
